@@ -1,0 +1,9 @@
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\bin\Debug\netstandard2.0\Vectors.deps.json
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\bin\Debug\netstandard2.0\Vectors.dll
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\bin\Debug\netstandard2.0\Vectors.pdb
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\obj\Debug\netstandard2.0\Vectors.csprojAssemblyReference.cache
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\obj\Debug\netstandard2.0\Vectors.AssemblyInfoInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\obj\Debug\netstandard2.0\Vectors.AssemblyInfo.cs
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\obj\Debug\netstandard2.0\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\obj\Debug\netstandard2.0\Vectors.dll
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\Vectors\obj\Debug\netstandard2.0\Vectors.pdb

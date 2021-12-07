@@ -1,0 +1,9 @@
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\bin\Debug\ConsoleVectors.exe.config
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\bin\Debug\ConsoleVectors.exe
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\bin\Debug\ConsoleVectors.pdb
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\bin\Debug\Vectors.dll
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\obj\Debug\ConsoleVectors.csprojAssemblyReference.cache
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\obj\Debug\ConsoleVectors.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\obj\Debug\ConsoleVectors.csproj.CopyComplete
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\obj\Debug\ConsoleVectors.exe
+C:\Users\Ricardo D.Monkey\source\repos\Vectors\ConsoleVectors\obj\Debug\ConsoleVectors.pdb
